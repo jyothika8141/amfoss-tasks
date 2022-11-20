@@ -1,3 +1,5 @@
+**Terminal Commands**
+
 cd TerminalHunt
 mkdir solution
 cd solution
@@ -33,3 +35,17 @@ rm part1.txt part2.txt part3.txt part4.txt
 cat password.txt
 
 [Screenshottask2](https://user-images.githubusercontent.com/118593670/202871069-144cb447-a5df-4cbc-828f-f0107a189157.png)
+
+
+**Git Terminal Commands**
+
+git clone https://github.com/jyothika8141/amfoss-tasks.git
+mv password.txt amfoss-tasks
+cd amfoss-tasks/
+mv password.txt task-02
+cd task-02
+git init
+git add password.txt
+git commit -m "password"
+git push
+
