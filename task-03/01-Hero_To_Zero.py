@@ -10,7 +10,6 @@ def chk_0(lst):
         return True
 
 
-
 def repeat(lst):
     global mana
     set1 = set(lst)
