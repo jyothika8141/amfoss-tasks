@@ -29,7 +29,7 @@ fn main() -> Result<(), Box<dyn Error>>{
     let mut v_volume24_market = vec![];
 
     names
-    .for_each(|item| v_names.push(item));
+        .for_each(|item| v_names.push(item));
     
     price
         .for_each(|item| v_price.push(item));
