@@ -44,7 +44,7 @@ public class SynchronousSocketListener
                 // byte[] buffer = new byte[];
                 int bytesRec = handler.Receive(bytes);
                 string data = Encoding.ASCII.GetString(bytes, 0, bytesRec);
-                Console.WriteLine($"Text received : {0}", data);
+                // Console.WriteLine($"Text received : {0}", data);
                 string[] dataArr = data.Split(',');
                 string name = dataArr[0];
                 string intrests = dataArr[1];
