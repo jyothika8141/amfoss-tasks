@@ -1,0 +1,92 @@
+body {
+  text-align: center;
+  background-color: #0f2b78;
+  font-family: 'Rubik Microbe', cursive;
+}
+
+h1 {
+  font-size: 10rem;
+  color: #DBEDF3;
+   
+
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #0c1c48;
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #8c0441; 
+  text-shadow: 3px 0 #b3ccd4;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+.w {
+  background-color: #92e495;
+  box-shadow: 10px 10px 10px black;
+  font-family: 'Rubik Microbe', cursive;
+}
+
+
+.a {
+  background-color: #f58780;
+  box-shadow: 10px 10px 10px black;
+  font-family: 'Rubik Microbe', cursive;
+}
+
+.s {
+  background-color: #9c6fe0;
+  box-shadow: 10px 10px 10px black;
+  font-family: 'Rubik Microbe', cursive;
+}
+
+.d {
+  background-color: #52c3cd;
+  box-shadow: 10px 10px 10px black;
+  font-family: 'Rubik Microbe', cursive;
+
+}
+
+.j {
+  background-color: #dc8ce1;
+  box-shadow: 10px 10px 10px black;
+  font-family: 'Rubik Microbe', cursive;
+
+}
+
+.k {
+  background-color: #df7f4b;
+  box-shadow: 10px 10px 10px black;
+  font-family: 'Rubik Microbe', cursive;
+}
+
+.l {
+  background-color: #ebe568;
+  box-shadow: 10px 10px 10px black;
+  font-family: 'Rubik Microbe', cursive;
+}
