@@ -1,0 +1,3 @@
+# **Star all the amFOSS repositories**
+
+I absolutely loved this task...
