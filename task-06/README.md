@@ -1,3 +1,12 @@
+# **Flame game**
+
+This was an interesting task. 
+<br>
+Adding the backround picture and the bunny was easy. The hard part was to figure out how to change the position of the navigation keys. 
+<br>
+<br>
+Final output:
+<br>
 
 
 
