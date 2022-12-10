@@ -6,4 +6,6 @@ I found this task to be the most challenging one. I was very new to concept web 
 The problem I faced was not being able to call the required function from the main.wasm file. It took me a sometime to figure out the "syscall/js" package, after which I was able complete the task.
 <br>
 <br>
+Final Output:
+<br>
 https://user-images.githubusercontent.com/118593670/206850008-3d943424-e0fe-4a13-a242-11557445f60e.mp4
