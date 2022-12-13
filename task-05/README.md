@@ -2,7 +2,7 @@
 
 I used Visual Studio as the IDE(which corrected a few errors).
 
-Learnt a bit about socket programming in C# and was able to complete the task.
+Learned a bit about socket programming in C# and was able to complete the task.
 
 Final output:
 
