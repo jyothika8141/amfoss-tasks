@@ -1,7 +1,7 @@
 # **amfoss-tasks**
 Hi, I'm Jyothika Manoj from Kannur, Kerala, fresher at Amrita School of Computing(CSE 2022).
 <br>
-I started to learn Python in grade 11 and have loved to code ever since. 
+I started learning Python in grade 11 and have loved to code ever since. 
 <br>
 
 ---
