@@ -1,2 +1,2 @@
 # **Terminal Hunt**
-I learned a bunch of new commands. 
+Great way to start learning terminal commands
