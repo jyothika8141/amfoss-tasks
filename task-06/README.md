@@ -1,5 +1,5 @@
 # **Flame game**
-This was an interesting task.It was my first time developing a mobile app. 
+This was an interesting task. It was my first time developing a mobile app. 
 
 I referred a few websites to understand the flutter framework and flame engine.
 
