@@ -2,7 +2,7 @@
 **1. Why must we choose you?**
 
 * I will always strive to be on top of my game.
-* I prefer smartwork and that has helped me explore a lot of niches.
+* I am consistent and prefer smartwork.
 * I am a quick learner.
 
 
